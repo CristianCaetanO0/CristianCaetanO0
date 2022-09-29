@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cristian
+- 👀 I’m interested in tecnology
+- 🎈 I study systems analysis and development
